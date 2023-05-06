@@ -1,0 +1,43 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat May  6 18:37:11 2023
+;; Desktop file format version 208
+;; Emacs version 28.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (25686 29735 226348 996000) (desktop . "208") "mertgor@mertgor-makine" nil nil ((((minibuffer . t) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (cursor-color . "green") (scroll-bar-foreground . "white") (background-color . "#181a26") (foreground-color . "gray80") (font . "tty") (height . 32) (width . 136) (modeline . t) (unsplittable) (menu-bar-lines . 1) (tab-bar-lines . 0) (frameset--id . "0827-CCC3-A974-9839") (frameset--mini t)) ((min-height . 4) (min-width . 45) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 4) (min-pixel-width . 45) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 4) (min-pixel-height-safe . 1) (min-pixel-width-safe . 4)) hc (pixel-width . 136) (pixel-height . 31) (total-width . 136) (total-height . 31) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 35) (pixel-height . 31) (total-width . 35) (total-height . 31) (normal-height . 1.0) (normal-width . 0.5147058823529411) (parameters (window-side . left) (window-slot . 0)) (buffer " *Treemacs-Scoped-Buffer-#<frame F1 0x13aa258>*" (selected) (hscroll . 0) (fringes 0 0 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated . t) (point . 269) (start . 1))) (leaf (last . t) (pixel-width . 101) (pixel-height . 31) (total-width . 101) (total-height . 31) (normal-height . 1.0) (normal-width . 0.4852941176470588) (buffer "README.md" (selected . t) (hscroll . 0) (fringes 0 0 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 102) (start . 1)) (prev-buffers ("README.md" 1 102) ("LICENSE" 32751 33877) ("*Buffer List*" 1 86)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/proje/lua-dojo/lua-dojo/" "~/proje/lua-dojo/lua-dojo/README.md" "~/proje/lua-dojo/lua-dojo/LICENSE" "~/proje/lua-dojo/lua-dojo/README.md" "~/proje/lua-dojo/lua-dojo/LICENSE" "~/proje/lua-dojo/lua-dojo/README.md" "~/proje/lua-dojo/lua-dojo/LICENSE" "~/proje/lua-dojo" "~/.emacs"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/mertgor/proje/lua-dojo/lua-dojo/README.md"
+  "README.md"
+  'fundamental-mode
+  nil
+  102
+  '(53 nil)
+  nil
+  nil
+  '((buffer-display-time 25686 29732 830352 31000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (53 53 53 53 53 53 53 53 53 53 53))))
+
+(desktop-create-buffer 208
+  "/home/mertgor/proje/lua-dojo/lua-dojo/LICENSE"
+  "LICENSE"
+  'fundamental-mode
+  nil
+  33877
+  '(33030 nil)
+  nil
+  nil
+  '((buffer-display-time 25686 29273 285760 979000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (33877 33030 33030))))
+
