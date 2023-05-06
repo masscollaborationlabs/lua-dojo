@@ -6,6 +6,10 @@ On this repository we will train Lua programming language from it's own document
 
 We'll write our own code from scratch by learning from Lua manual.
 
+# Lua version
+
+Our Lua version is `Lua 5.4.2  Copyright (C) 1994-2020 Lua.org, PUC-Rio`
+
 # License
 
 Lua programming language training for developers.
