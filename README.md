@@ -2,6 +2,10 @@
 
 On this repository we will train Lua programming language from it's own documentation
 
+# Code
+
+We'll write our own code from scratch by learning from Lua manual.
+
 # License
 
 Lua programming language training for developers.
