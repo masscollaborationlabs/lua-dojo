@@ -1,6 +1,6 @@
-# lua-dojo
+# lua-dojo devel branch
 
-Lua training for developers
+On this repository we will train Lua programming language from it's own documentation
 
 # License
 
